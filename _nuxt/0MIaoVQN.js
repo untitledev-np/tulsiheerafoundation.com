@@ -1,1 +1,0 @@
-import{E as n}from"./_RCdSgqB.js";function o(){const s=n();return t=>{if(!t.startsWith("/"))return t;const e=t.indexOf("#");return s(e===-1?t:{path:t.slice(0,e)||"/",hash:t.slice(e)})}}export{o as u};
